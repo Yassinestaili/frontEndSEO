@@ -1,0 +1,33 @@
+
+------------ Ma premiere étape d'améliorer le SEO ----------------------
+
+changer le contenu de la balise de title avec des mots clefs par exemple
+
+<title> Le virzir Center Park:les promos de bonnes vacances </title>
+
+Le titre doit inclure les mots-clés principaux de la page, être unique et ne doit pas dépasser 60 à 65 caractères.
+La balise title est affichée dans les résultats de recherche de Google.
+
+Aussi tous les pages de site doivent ont un seul titre 
+
+
+------------- La deuxiéme étape pour le sEO-------------------------------------
+
+
+c'est La mata description  décrire la page dans la balise <meta name="La description ">
+
+
+------------------- l'étape suivante---------------------------------------------------------------
+
+
+La hierarchie de contenu à l'aide des balises sémantiques et de regroupement de div, H1,H2,..... par exemple 
+
+pour la phrase de (remplissez Le formulaire pour reserver ) est mieux d'ecrire sous balise <h3> place de <h3>
+
+
+
+---------------------------------------------------------------------------------------------------------
+
+à la place de de lien de GOOGLE+ et les autres reseaux sociaux je peux faire des autres comptes .mais bien sûr pour améliorer le SEO 
+
+de cette page de VIRZIR doit changer pas les comptes
